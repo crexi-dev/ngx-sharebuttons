@@ -1,5 +1,5 @@
 {
-  "name": "@crexi-dev/sharebuttons",
+  "name": "@crexi-dev/sharebuttons-core",
   "description": "Share buttons components for Angular and Ionic.",
   "version": "VERSION",
   "private": false,
