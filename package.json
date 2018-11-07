@@ -59,7 +59,6 @@
     "publish-all": "node .config/publish.js",
     "version": "node .config/version.js"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^6.1.9",
     "@angular/cdk": "^6.4.7",
